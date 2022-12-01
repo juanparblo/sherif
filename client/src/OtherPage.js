@@ -8,4 +8,4 @@ export default () => {
       <Link to="/">Go back home</Link>
     </div>
   );
-};
+}; 
